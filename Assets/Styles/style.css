@@ -1,0 +1,32 @@
+.nav-item{
+    color: black;
+    font-weight: bold;
+    font-size: larges;
+    margin-right: 70px;
+
+}
+.home{
+ width: fit-content;
+ height: 420px;
+}
+
+h1{
+    color: black;
+    font-weight: bold;
+    font-size: larges;
+    margin-right: 70px;
+}
+p{
+ font-weight: bold;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+}
+span{
+    font-size: x-large;
+}
+.row{
+    background-color: E2F2C7;
+}
+button{
+    background-color: black;
+    color: azure;
+}
